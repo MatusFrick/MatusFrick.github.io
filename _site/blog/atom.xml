@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Mat's Blog</title>
+ <link href="http://matusfrick.eu/blog/atom.xml" rel="self"/>
+ <link href="http://matusfrick.eu/blog"/>
+ <updated>2022-11-11T13:39:30+01:00</updated>
+ <id>http://matusfrick.eu/blog</id>
+ <author>
+   <name>MatusFrick</name>
+   <email>frickmatus@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Matus Frick To do</title>
+   <link href="http://matusfrick.eu/blog/2022/11/11/matus-frick-to-do"/>
+   <updated>2022-11-11T00:00:00+01:00</updated>
+   <id>http://matusfrick.eu//blog/2022/11/11/matus-frick-to-do</id>
+   <content type="html">&lt;p&gt;You found me! nice&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
